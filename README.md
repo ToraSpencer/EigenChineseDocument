@@ -1,4 +1,12 @@
-# Eigen教程
+# 从大佬那里fork来的中文版eigen库教程
+
+
+
+
+
+
+
+# 原README.md的内容
 
 ## 目的
 这是我学习Eigen时翻译的Eigen[官方文档](http://eigen.tuxfamily.org/dox/modules.html)。
